@@ -1,0 +1,48 @@
+CSS命名
+浏览器缓存机制
+React-Router
+Redux
+
+
+状态机(状态自动机)
+
+开发模式
+六个原则
+promise
+查找排序算法
+
+
+bootstrap
+1.<!DOCTYPE html>支持h5
+2.网格系统
+3.sublime 
+(1)> 子节点：在DOM树下一层添加创建一个元素
+(2) + 同级别：在DOM树同一层添加创建一个元素
+(3)^ 向上层：向上一层添加创建创建一个元素。
+(4)文字
+(5)[]属性
+(6).one.two.three添加多个类
+(7)$数字占位符:
+ul>li.item${item$}*3
+4.关键字
+abbr缩写
+cite引用
+striped有条纹的
+condensed 压缩的
+navbar导航栏
+pagination分页
+badge徽章
+backdrop背景
+data-toggle
+data-target
+collapse倒塌
+carousel行李传送带
+
+
+
+
+
+
+
+
+

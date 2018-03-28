@@ -1,0 +1,22 @@
+{
+  "name": "node-echo-lss",
+  "version": "1.0.0",
+  "description": "把命令行参数原样打印出来",
+  "main": "./lib/echo.js",
+  "bin": {
+    "node-echo-lss": "node-echo.js"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "dependencies": {
+    "argv": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flyfreely-lss",
+  "license": "ISC"
+}
