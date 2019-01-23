@@ -9,4 +9,4 @@ function main(argv) {
 }
 
 main(process.argv.slice(2));
-// console.log(process.argv);
+console.log(process.argv);
